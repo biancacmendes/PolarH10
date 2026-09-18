@@ -13,7 +13,6 @@ __pycache__/
 venv/
 env/
 resultados/*
-dataset/*
 
 # Jupyter
 .ipynb_checkpoints/

@@ -1,0 +1,11 @@
+{
+  "pessoa": "joaopedroalmeida",
+  "dispositivo": "Polar H10 EBED3823",
+  "device_address": "E6332DC0-A58F-1207-977B-4036C5414AC5",
+  "taxa_hz": 130,
+  "unidade": "uV",
+  "inicio_iso": "2026-08-18T14:41:44.648791+00:00",
+  "amostras": 151548,
+  "duracao_s": 1165.753846153846,
+  "gravacao_completa": true
+}

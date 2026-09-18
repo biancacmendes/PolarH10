@@ -1,0 +1,11 @@
+{
+  "pessoa": "beatrizcastro",
+  "dispositivo": "Polar H10 EBED3823",
+  "device_address": "E6332DC0-A58F-1207-977B-4036C5414AC5",
+  "taxa_hz": 130,
+  "unidade": "uV",
+  "inicio_iso": "2026-08-18T17:50:00.362169+00:00",
+  "amostras": 129283,
+  "duracao_s": 994.4846153846154,
+  "gravacao_completa": true
+}
