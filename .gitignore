@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*~
+~$*
+
+# Resultados gerados pelo pipeline
+resultados/
+
+# Cache de ferramentas Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
