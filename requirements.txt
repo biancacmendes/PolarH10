@@ -5,3 +5,4 @@ matplotlib
 neurokit2
 openpyxl
 jupyter
+gdown
